@@ -1,2 +1,2 @@
-# Congorise-Infotech
+# Cognorise-Infotech
 Internship_tasks
